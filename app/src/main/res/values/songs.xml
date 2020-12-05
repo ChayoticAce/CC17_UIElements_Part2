@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    gorillaz-->
+    <string-array name="gorillaz">
+        <item>Demon Days</item>
+        <item>Dirty Harry</item>
+        <item>November Has Come</item>
+        <item>Feel Good Inc.</item>
+        <item>Kids With Guns</item>
+    </string-array>
+
+<!--    kendrick-->
+    <string-array name="kendrick">
+        <item>DNA.</item>
+        <item>HUMBLE.</item>
+        <item>ELEMENT.</item>
+        <item>DAMN.</item>
+        <item>LOYALTY.</item>
+    </string-array>
+
+<!--    prtotype 2-->
+    <string-array name="prototype">
+        <item>Ressurection</item>
+        <item>Murder Your Maker</item>
+        <item>Cargo Delivery</item>
+        <item>Feeding Time</item>
+        <item>Natural Selection</item>
+    </string-array>
+</resources>
